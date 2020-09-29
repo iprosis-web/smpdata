@@ -2,7 +2,7 @@
 Node JS Script based on puppeteer to retrieve tariff (price) data from the site of Israel Electric Company
 
 To run locally: 
-===============
+
  - clone repository, get into smpdata directory
  - run npm start (OR: node app).
 
